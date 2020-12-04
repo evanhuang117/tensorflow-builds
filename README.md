@@ -1,6 +1,6 @@
 # Custom TensorFlow builds (pip wheels)
 
-These work for builds using an old LGA775 cpu and a modern GPU
+These work for computers using an old LGA775 cpu and a modern GPU
 
 ### march=Core2 -> SSE2, SSE3
 - Works for all Core2 processors
