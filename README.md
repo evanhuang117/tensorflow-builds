@@ -1,4 +1,4 @@
-# Custom builds for Tensorflow (pip wheels)
+# Custom TensorFlow builds (pip wheels)
 
 These work for builds using an old LGA775 cpu and a modern GPU
 
